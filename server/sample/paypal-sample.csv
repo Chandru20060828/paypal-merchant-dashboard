@@ -1,0 +1,7 @@
+Transaction ID,Date,Type,Item Title,Quantity,Gross,Currency,Fee,Net,Status,Refund Amount
+SAMPLE-1001,2026-10-20,Express Checkout Payment,Classic Tee,1,24.99,USD,-1.03,23.96,Completed,
+SAMPLE-1002,2026-10-20,Express Checkout Payment,Hoodie,1,49.99,USD,-1.75,48.24,Completed,
+SAMPLE-1003,2026-10-21,Express Checkout Payment,Sneakers,1,79.99,USD,-2.62,77.37,Completed,
+SAMPLE-1004,2026-10-21,Express Checkout Payment,Canvas Tote,2,39.98,USD,-1.46,38.52,Completed,
+SAMPLE-1005,2026-10-22,Payment Refund,Hoodie,1,-49.99,USD,0,-49.99,Completed,49.99
+SAMPLE-1006,2026-10-23,Express Checkout Payment,Classic Tee,2,49.98,USD,-1.75,48.23,Completed,
